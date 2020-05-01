@@ -11,7 +11,7 @@ Over the last few decades, chemists have become skilled at designing compounds t
 1. [Additional file 1](https://static-content.springer.com/esm/art%3A10.1186%2Fs13321-020-00426-7/MediaObjects/13321_2020_426_MOESM1_ESM.docx) - contains Additional figures and tables.
 2. [Additional file 2](https://static-content.springer.com/esm/art%3A10.1186%2Fs13321-020-00426-7/MediaObjects/13321_2020_426_MOESM2_ESM.knwf) - contains MMPA KNIME workflow
 3. [Additional file 3](https://static-content.springer.com/esm/art%3A10.1186%2Fs13321-020-00426-7/MediaObjects/13321_2020_426_MOESM3_ESM.xls) - contains External validation results
-4. The input data for Additional file 2 can be found in this repo: `supporting_material/Input_MMP.csv`
+4. The input data for Additional file 2 can be found in this repository: `supporting_material/Input_MMP.csv`. Please note that the original data used for MMPA is not included here. The implementation in the KNIME workflow is based on validation set compounds.
 
 ## Contact
 
